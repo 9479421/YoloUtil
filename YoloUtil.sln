@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YoloUtil", "YoloUtil\YoloUtil.vcxproj", "{80279B66-C1CE-45BC-8081-F991277848B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Debug|x64.ActiveCfg = Debug|x64
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Debug|x64.Build.0 = Debug|x64
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Debug|x86.Build.0 = Debug|Win32
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Release|x64.ActiveCfg = Release|x64
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Release|x64.Build.0 = Release|x64
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Release|x86.ActiveCfg = Release|Win32
+		{80279B66-C1CE-45BC-8081-F991277848B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA54041-F3D6-448F-BA85-1B4197441206}
+	EndGlobalSection
+EndGlobal

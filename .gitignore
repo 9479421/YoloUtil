@@ -1,0 +1,4 @@
+*.dll
+/.vs/
+/x64
+/YoloUtil/x64
